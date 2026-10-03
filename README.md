@@ -105,16 +105,3 @@ flowchart TD
     E --> G
     F --> H
 
----
-📂 Estructura del Repositorio
-Plaintext
-├── 01_DOCUMENTACION/                 # Políticas de backup, protección de datos y KPIs
-├── 02_DIAGRAMAS/                      # Diagramas entidad-relación y modelos relacionales
-├── 03_DATASET/                        # Datos transaccionales y maestros en formato CSV
-├── 05_MONGODB/                        # Scripts de operaciones CRUD y colecciones NoSQL
-├── 06_ETL/                            # Pipeline de extracción, transformación y carga (Python)
-├── 07_DATA_WAREHOUSE/                 # DDL, modelo dimensional y queries OLAP
-├── 08_POWER_BI/                       # Dashboard gerencial interactivo (.pbix)
-├── 09_BIG_DATA/                       # Notebooks y scripts analíticos con PySpark
-├── 10_BACKUPS/                        # Backups transaccionales (.bak) Full y Diferencial
-└── README.md                          # Documentación principal del repositorio
