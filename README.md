@@ -34,11 +34,11 @@ Este repositorio contiene la solución integral de ingeniería de datos para la 
 * **Curso:** CIIN1021P
 * **Evaluación:** Evaluación Final (EF)
 * **Integrantes:**
-  Aguilar Cruz, Alex Gustavo
-  Fernandez Vigo Sergio Esteban
-  Ishpilco Quispe, Esau
-  Malca Chilon, Antony                                                                                
-  Vasquez Valdez Jaime Farid
+  1. Aguilar Cruz, Alex Gustavo
+  2. Fernandez Vigo Sergio Esteban
+  3. Ishpilco Quispe, Esau
+  4. Malca Chilon, Antony                                                                                
+  5. Vasquez Valdez Jaime Farid
 
 
 ---
