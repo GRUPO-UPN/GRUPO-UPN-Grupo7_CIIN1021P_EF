@@ -1,5 +1,12 @@
 # MARFARMA EF - Proyecto Integral Universitario
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2019%2B-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-Database%20Engine-0078D4?style=for-the-badge)
+![Modelado](https://img.shields.io/badge/Architecture-Kimball%20Star%20Schema-green?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/Compliance-Ley%20N.%C2%BA%2029733%20(Per%C3%BA)-blue?style=for-the-badge)
+
+---
+
 Bienvenido al proyecto universitario integral **MARFARMA_EF**. Este proyecto articula conceptos avanzados de bases de datos relacionales, automatización con T-SQL, NoSQL, Data Warehousing, BI y Big Data (Apache Spark) a través de un pipeline automatizado, basado en el caso de estudio de la botica MARFARMA.
 
 ## Estructura del Proyecto
