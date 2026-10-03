@@ -1,0 +1,16 @@
+2026-10-01 20:46:29,895 - INFO - INICIANDO PROCESO ETL MARFARMA...
+2026-10-01 20:46:29,949 - INFO - EXTRACT: Leyendo tablas desde MARFARMA_DB
+2026-10-01 20:46:34,699 - INFO - TRANSFORM: Limpieza, enriquecimiento y formateo de dimensiones
+2026-10-01 20:46:34,728 - ERROR - ERROR EN ETL: Can only use .dt accessor with datetimelike values
+2026-10-01 20:46:53,974 - INFO - INICIANDO PROCESO ETL MARFARMA...
+2026-10-01 20:46:54,018 - INFO - EXTRACT: Leyendo tablas desde MARFARMA_DB
+2026-10-01 20:46:58,623 - INFO - TRANSFORM: Limpieza, enriquecimiento y formateo de dimensiones
+2026-10-01 20:46:58,714 - INFO - LOAD: Cargando dimensiones en MARFARMA_DW
+2026-10-01 20:47:00,378 - INFO - TRANSFORM & LOAD: Construyendo FactVentas
+2026-10-01 20:47:13,586 - INFO - ETL FINALIZADO CON ÉXITO. Hechos procesados: 104229
+2026-10-01 21:42:41,510 - INFO - INICIANDO PROCESO ETL MARFARMA...
+2026-10-01 21:42:41,555 - INFO - EXTRACT: Leyendo tablas desde MARFARMA_DB
+2026-10-01 21:42:44,268 - INFO - TRANSFORM: Limpieza, enriquecimiento y formateo de dimensiones
+2026-10-01 21:42:44,328 - INFO - LOAD: Cargando dimensiones en MARFARMA_DW
+2026-10-01 21:42:46,782 - INFO - TRANSFORM & LOAD: Construyendo FactVentas
+2026-10-01 21:42:57,492 - INFO - ETL FINALIZADO CON ÉXITO. Hechos procesados: 104229

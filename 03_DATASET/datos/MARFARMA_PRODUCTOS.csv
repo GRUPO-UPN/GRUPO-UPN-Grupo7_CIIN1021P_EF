@@ -1,0 +1,301 @@
+id_producto,nombre_producto,categoria,laboratorio,requiere_receta,precio_unitario
+PROD000001,ANTI-Tomar 421mg,Antialérgicos,IncaFarma Labs,NO,94.55
+PROD000002,SUPL-Pronto 806mg,Suplementos,Genéricos Peru,NO,97.09
+PROD000003,DERM-Parecía 532mg,Dermatológicos,Genéricos Peru,NO,46.59
+PROD000004,PROD-Políticas 503mg,Productos para adultos mayores,SaludPerú,NO,36.66
+PROD000005,HIGI-Existe 314mg,Higiene personal,IncaFarma Labs,NO,9.98
+PROD000006,SUPL-Quién 423mg,Suplementos,SaludPerú,NO,50.88
+PROD000007,ANTI-Felipe 487mg,Antialérgicos,BioPharma,NO,99.81
+PROD000008,ANTI-Alguien 561mg,Antiinflamatorios,FarmaAndes,NO,46.44
+PROD000009,ANTI-Destino 361mg,Antibióticos,Laboratorios Alfa,SI,54.93
+PROD000010,ANTI-Lejos 200mg,Antigripales,Genéricos Peru,NO,66.91
+PROD000011,GAST-Cuando 950mg,Gastrointestinales,Laboratorios Alfa,SI,25.03
+PROD000012,PRIM-Ejemplo 394mg,Primeros auxilios,Laboratorios Alfa,NO,17.56
+PROD000013,OTRO-Que 698mg,Otros,FarmaAndes,NO,94.73
+PROD000014,OTRO-Posibilidades 656mg,Otros,BioPharma,NO,28.52
+PROD000015,PRIM-B 451mg,Primeros auxilios,Genéricos Peru,NO,29.06
+PROD000016,DERM-Razón 317mg,Dermatológicos,IncaFarma Labs,NO,78.66
+PROD000017,DERM-Diversas 996mg,Dermatológicos,IncaFarma Labs,NO,79.7
+PROD000018,OTRO-Cierta 941mg,Otros,Andina Pharma,NO,12.52
+PROD000019,ANTI-Habría 103mg,Antibióticos,BioPharma,SI,59.04
+PROD000020,PRIM-Mercado 131mg,Primeros auxilios,BioPharma,NO,7.84
+PROD000021,DERM-Comercio 228mg,Dermatológicos,Laboratorios Alfa,NO,54.74
+PROD000022,PRIM-Área 103mg,Primeros auxilios,Laboratorios Alfa,NO,14.56
+PROD000023,SUPL-Tiempos 668mg,Suplementos,Laboratorios Alfa,NO,32.47
+PROD000024,OTRO-Demás 798mg,Otros,Andina Pharma,NO,5.06
+PROD000025,ANTI-Baja 195mg,Antigripales,Andina Pharma,NO,52.26
+PROD000026,DISP-Hasta 172mg,Dispositivos médicos,Genéricos Peru,NO,49.0
+PROD000027,ANTI-Muerte 717mg,Antibióticos,Laboratorios Alfa,SI,49.0
+PROD000028,DERM-Enero 180mg,Dermatológicos,BioPharma,NO,64.26
+PROD000029,GAST-Muchos 930mg,Gastrointestinales,Genéricos Peru,SI,50.71
+PROD000030,ANTI-Buen 384mg,Antibióticos,FarmaAndes,SI,78.31
+PROD000031,DERM-Seguridad 637mg,Dermatológicos,Laboratorios Alfa,NO,93.72
+PROD000032,CUID-Le 256mg,Cuidado infantil,FarmaAndes,NO,27.18
+PROD000033,SUPL-Causa 650mg,Suplementos,Andina Pharma,NO,77.14
+PROD000034,HIGI-Ha 252mg,Higiene personal,Laboratorios Alfa,NO,3.58
+PROD000035,HIGI-Baja 321mg,Higiene personal,SaludPerú,NO,17.52
+PROD000036,ANTI-Tenido 365mg,Antibióticos,Genéricos Peru,SI,40.64
+PROD000037,ANTI-Quedó 436mg,Antibióticos,Andina Pharma,SI,89.4
+PROD000038,ANAL-Doctor 128mg,Analgésicos,FarmaAndes,NO,31.73
+PROD000039,PRIM-Contrario 295mg,Primeros auxilios,BioPharma,NO,6.01
+PROD000040,ANTI-Idea 860mg,Antibióticos,Andina Pharma,SI,94.42
+PROD000041,HIGI-Comunidad 537mg,Higiene personal,Andina Pharma,NO,9.37
+PROD000042,PROD-Humana 249mg,Productos para adultos mayores,Genéricos Peru,NO,19.17
+PROD000043,OTRO-Consecuencia 950mg,Otros,IncaFarma Labs,NO,88.94
+PROD000044,ANAL-Ciento 220mg,Analgésicos,SaludPerú,NO,89.5
+PROD000045,DERM-Casa 483mg,Dermatológicos,Laboratorios Alfa,NO,92.16
+PROD000046,DERM-Todas 200mg,Dermatológicos,IncaFarma Labs,NO,49.48
+PROD000047,ANAL-Buen 695mg,Analgésicos,BioPharma,SI,28.78
+PROD000048,CUID-Igual 791mg,Cuidado infantil,IncaFarma Labs,NO,9.23
+PROD000049,ANTI-Por 638mg,Antiinflamatorios,Genéricos Peru,NO,15.47
+PROD000050,OTRO-Mayor 102mg,Otros,FarmaAndes,NO,66.91
+PROD000051,ANAL-Diciembre 553mg,Analgésicos,Genéricos Peru,NO,33.69
+PROD000052,CUID-U 195mg,Cuidado infantil,SaludPerú,NO,4.5
+PROD000053,CUID-Materia 111mg,Cuidado infantil,BioPharma,NO,8.14
+PROD000054,OTRO-Construcción 404mg,Otros,SaludPerú,NO,23.38
+PROD000055,DISP-Actitud 594mg,Dispositivos médicos,Laboratorios Alfa,NO,31.48
+PROD000056,ANTI-Sala 720mg,Antialérgicos,Andina Pharma,NO,12.05
+PROD000057,PRIM-Sociales 486mg,Primeros auxilios,SaludPerú,NO,5.73
+PROD000058,SUPL-Curso 226mg,Suplementos,IncaFarma Labs,NO,148.13
+PROD000059,VITA-Ahora 129mg,Vitaminas,Andina Pharma,NO,80.64
+PROD000060,DERM-Lejos 991mg,Dermatológicos,BioPharma,NO,91.35
+PROD000061,PROD-Conocer 548mg,Productos para adultos mayores,Andina Pharma,NO,32.72
+PROD000062,ANTI-Historia 994mg,Antiinflamatorios,SaludPerú,NO,54.0
+PROD000063,DERM-Cuya 369mg,Dermatológicos,IncaFarma Labs,NO,92.74
+PROD000064,ANTI-Minutos 737mg,Antigripales,IncaFarma Labs,NO,68.35
+PROD000065,OTRO-Falta 443mg,Otros,BioPharma,NO,56.64
+PROD000066,SUPL-Principales 161mg,Suplementos,Andina Pharma,NO,49.79
+PROD000067,HIGI-Partidos 920mg,Higiene personal,Andina Pharma,NO,4.25
+PROD000068,DISP-Siempre 888mg,Dispositivos médicos,BioPharma,NO,70.7
+PROD000069,OTRO-Necesidad 271mg,Otros,IncaFarma Labs,NO,13.41
+PROD000070,GAST-Mucha 512mg,Gastrointestinales,SaludPerú,SI,27.71
+PROD000071,DERM-Solamente 294mg,Dermatológicos,Laboratorios Alfa,NO,129.76
+PROD000072,HIGI-Gracias 793mg,Higiene personal,FarmaAndes,NO,16.84
+PROD000073,DERM-Pueden 121mg,Dermatológicos,SaludPerú,NO,53.46
+PROD000074,HIGI-Qué 535mg,Higiene personal,IncaFarma Labs,NO,25.17
+PROD000075,ANTI-Pie 154mg,Antigripales,BioPharma,NO,26.64
+PROD000076,PROD-Imposible 633mg,Productos para adultos mayores,Genéricos Peru,NO,79.18
+PROD000077,SUPL-Cine 790mg,Suplementos,SaludPerú,NO,103.37
+PROD000078,DISP-Tengo 949mg,Dispositivos médicos,BioPharma,NO,8.85
+PROD000079,ANTI-Ver 917mg,Antiinflamatorios,Andina Pharma,SI,75.87
+PROD000080,GAST-Pocos 158mg,Gastrointestinales,Laboratorios Alfa,SI,90.43
+PROD000081,ANTI-Ii 199mg,Antibióticos,SaludPerú,SI,19.31
+PROD000082,PRIM-Felipe 315mg,Primeros auxilios,Laboratorios Alfa,NO,21.2
+PROD000083,CUID-Trabajo 284mg,Cuidado infantil,Andina Pharma,NO,17.24
+PROD000084,ANTI-Debe 859mg,Antibióticos,Genéricos Peru,SI,88.05
+PROD000085,PROD-Padre 168mg,Productos para adultos mayores,FarmaAndes,NO,90.79
+PROD000086,DERM-Vuelve 238mg,Dermatológicos,Andina Pharma,NO,120.79
+PROD000087,ANTI-Nacional 983mg,Antibióticos,FarmaAndes,SI,14.53
+PROD000088,SUPL-Ayuda 432mg,Suplementos,BioPharma,NO,59.94
+PROD000089,SUPL-Solamente 477mg,Suplementos,BioPharma,NO,102.6
+PROD000090,VITA-Curso 100mg,Vitaminas,FarmaAndes,NO,98.11
+PROD000091,PRIM-Hacía 539mg,Primeros auxilios,BioPharma,NO,27.03
+PROD000092,CUID-Palabra 463mg,Cuidado infantil,Andina Pharma,NO,21.69
+PROD000093,SUPL-Comunidad 616mg,Suplementos,IncaFarma Labs,NO,59.97
+PROD000094,DERM-Cuanto 923mg,Dermatológicos,Andina Pharma,NO,122.03
+PROD000095,PRIM-Antonio 163mg,Primeros auxilios,FarmaAndes,NO,27.92
+PROD000096,ANTI-Quiero 651mg,Antibióticos,Laboratorios Alfa,SI,41.54
+PROD000097,PRIM-Nuevos 923mg,Primeros auxilios,FarmaAndes,NO,25.08
+PROD000098,GAST-Casi 955mg,Gastrointestinales,Andina Pharma,SI,57.46
+PROD000099,PRIM-Entrada 171mg,Primeros auxilios,BioPharma,NO,23.41
+PROD000100,DERM-Primer 248mg,Dermatológicos,Laboratorios Alfa,NO,146.69
+PROD000101,DISP-Debía 260mg,Dispositivos médicos,FarmaAndes,NO,78.62
+PROD000102,GAST-Según 970mg,Gastrointestinales,FarmaAndes,SI,11.57
+PROD000103,VITA-Siete 956mg,Vitaminas,Andina Pharma,NO,103.75
+PROD000104,PROD-Base 439mg,Productos para adultos mayores,Laboratorios Alfa,NO,68.28
+PROD000105,PRIM-Desde 620mg,Primeros auxilios,Andina Pharma,NO,17.9
+PROD000106,DERM-Ese 992mg,Dermatológicos,FarmaAndes,NO,93.24
+PROD000107,VITA-En 991mg,Vitaminas,FarmaAndes,NO,50.0
+PROD000108,DISP-Luis 809mg,Dispositivos médicos,FarmaAndes,NO,87.29
+PROD000109,ANTI-Y 638mg,Antiinflamatorios,FarmaAndes,NO,83.45
+PROD000110,DERM-J 712mg,Dermatológicos,Genéricos Peru,NO,95.12
+PROD000111,DISP-Estado 189mg,Dispositivos médicos,IncaFarma Labs,NO,24.73
+PROD000112,ANTI-Congreso 798mg,Antibióticos,FarmaAndes,SI,36.38
+PROD000113,DISP-Sea 996mg,Dispositivos médicos,IncaFarma Labs,NO,65.5
+PROD000114,SUPL-Día 760mg,Suplementos,Laboratorios Alfa,NO,106.3
+PROD000115,ANAL-Perdido 490mg,Analgésicos,Laboratorios Alfa,NO,36.41
+PROD000116,PROD-Razones 644mg,Productos para adultos mayores,FarmaAndes,NO,8.46
+PROD000117,VITA-Noviembre 862mg,Vitaminas,Laboratorios Alfa,NO,117.44
+PROD000118,ANTI-Menos 305mg,Antialérgicos,SaludPerú,NO,36.34
+PROD000119,HIGI-Hombre 463mg,Higiene personal,Laboratorios Alfa,NO,10.3
+PROD000120,CUID-Sistemas 641mg,Cuidado infantil,Genéricos Peru,NO,28.16
+PROD000121,SUPL-Dentro 641mg,Suplementos,Laboratorios Alfa,NO,31.67
+PROD000122,GAST-Estos 701mg,Gastrointestinales,Andina Pharma,SI,29.76
+PROD000123,ANAL-Industria 350mg,Analgésicos,Laboratorios Alfa,NO,39.14
+PROD000124,CUID-Un 953mg,Cuidado infantil,FarmaAndes,NO,2.61
+PROD000125,DISP-Datos 254mg,Dispositivos médicos,IncaFarma Labs,NO,21.4
+PROD000126,PRIM-Importancia 805mg,Primeros auxilios,Genéricos Peru,NO,26.86
+PROD000127,SUPL-Peor 573mg,Suplementos,IncaFarma Labs,NO,72.17
+PROD000128,ANTI-Consejo 917mg,Antigripales,FarmaAndes,NO,38.05
+PROD000129,SUPL-Tenido 332mg,Suplementos,Andina Pharma,NO,70.9
+PROD000130,ANTI-B 482mg,Antiinflamatorios,IncaFarma Labs,NO,48.81
+PROD000131,SUPL-Autoridades 432mg,Suplementos,Genéricos Peru,NO,146.55
+PROD000132,ANTI-Quedó 658mg,Antigripales,IncaFarma Labs,NO,95.09
+PROD000133,PRIM-Bajo 894mg,Primeros auxilios,SaludPerú,NO,20.18
+PROD000134,ANTI-Antonio 250mg,Antigripales,Andina Pharma,NO,91.75
+PROD000135,ANTI-Tipo 769mg,Antigripales,Genéricos Peru,NO,85.73
+PROD000136,GAST-Costa 472mg,Gastrointestinales,Andina Pharma,SI,34.87
+PROD000137,ANTI-Máximo 630mg,Antiinflamatorios,Genéricos Peru,SI,67.52
+PROD000138,ANTI-Sigue 325mg,Antialérgicos,SaludPerú,NO,18.83
+PROD000139,DERM-Respuesta 250mg,Dermatológicos,SaludPerú,NO,112.57
+PROD000140,DISP-Mejor 117mg,Dispositivos médicos,Andina Pharma,NO,35.31
+PROD000141,DERM-Estados 987mg,Dermatológicos,FarmaAndes,NO,55.73
+PROD000142,ANTI-Pensar 577mg,Antiinflamatorios,IncaFarma Labs,NO,46.04
+PROD000143,DERM-Amigo 170mg,Dermatológicos,SaludPerú,NO,63.64
+PROD000144,ANAL-Mayor 886mg,Analgésicos,Andina Pharma,NO,69.03
+PROD000145,OTRO-Región 215mg,Otros,Laboratorios Alfa,NO,41.79
+PROD000146,PRIM-Presidente 837mg,Primeros auxilios,Andina Pharma,NO,22.84
+PROD000147,VITA-Bueno 667mg,Vitaminas,Andina Pharma,NO,146.78
+PROD000148,OTRO-Pronto 996mg,Otros,IncaFarma Labs,NO,36.9
+PROD000149,PROD-Aquella 928mg,Productos para adultos mayores,SaludPerú,NO,13.08
+PROD000150,VITA-R 523mg,Vitaminas,Laboratorios Alfa,NO,122.16
+PROD000151,VITA-Peor 186mg,Vitaminas,Laboratorios Alfa,NO,89.8
+PROD000152,GAST-Cual 210mg,Gastrointestinales,Andina Pharma,SI,21.9
+PROD000153,DERM-Tenían 408mg,Dermatológicos,SaludPerú,NO,132.85
+PROD000154,ANTI-Mis 431mg,Antiinflamatorios,Andina Pharma,NO,83.17
+PROD000155,VITA-Río 465mg,Vitaminas,SaludPerú,NO,40.4
+PROD000156,ANAL-Mayo 216mg,Analgésicos,BioPharma,NO,28.23
+PROD000157,SUPL-Existencia 727mg,Suplementos,Genéricos Peru,NO,70.63
+PROD000158,HIGI-Algunos 432mg,Higiene personal,FarmaAndes,NO,11.9
+PROD000159,ANTI-Defensa 201mg,Antibióticos,Andina Pharma,SI,42.03
+PROD000160,ANTI-Nuestro 492mg,Antialérgicos,IncaFarma Labs,NO,27.32
+PROD000161,VITA-Muestra 116mg,Vitaminas,BioPharma,NO,134.82
+PROD000162,ANAL-Presencia 424mg,Analgésicos,FarmaAndes,NO,90.37
+PROD000163,ANAL-Tampoco 102mg,Analgésicos,Andina Pharma,NO,66.39
+PROD000164,DERM-Principales 943mg,Dermatológicos,FarmaAndes,NO,35.83
+PROD000165,DISP-Profesional 281mg,Dispositivos médicos,BioPharma,NO,23.54
+PROD000166,ANAL-Algo 880mg,Analgésicos,FarmaAndes,NO,94.9
+PROD000167,PROD-Toda 554mg,Productos para adultos mayores,IncaFarma Labs,NO,35.0
+PROD000168,SUPL-Estilo 831mg,Suplementos,FarmaAndes,NO,54.88
+PROD000169,DERM-Escuela 520mg,Dermatológicos,FarmaAndes,NO,127.09
+PROD000170,ANAL-Hacía 967mg,Analgésicos,FarmaAndes,SI,38.6
+PROD000171,ANTI-Pesar 688mg,Antigripales,Laboratorios Alfa,NO,66.96
+PROD000172,ANAL-Pesetas 323mg,Analgésicos,Genéricos Peru,NO,83.67
+PROD000173,ANTI-Eso 811mg,Antibióticos,BioPharma,SI,11.71
+PROD000174,PROD-Centro 916mg,Productos para adultos mayores,FarmaAndes,NO,66.18
+PROD000175,OTRO-Si 319mg,Otros,SaludPerú,NO,72.66
+PROD000176,DERM-Señaló 292mg,Dermatológicos,FarmaAndes,NO,82.2
+PROD000177,ANTI-Gobierno 827mg,Antiinflamatorios,Laboratorios Alfa,SI,56.82
+PROD000178,OTRO-Siglo 713mg,Otros,FarmaAndes,NO,47.54
+PROD000179,ANTI-Propuesta 631mg,Antiinflamatorios,SaludPerú,NO,74.98
+PROD000180,DISP-Hija 457mg,Dispositivos médicos,Andina Pharma,NO,35.34
+PROD000181,ANTI-Deben 122mg,Antialérgicos,Genéricos Peru,NO,1.68
+PROD000182,GAST-Madre 331mg,Gastrointestinales,Andina Pharma,SI,68.83
+PROD000183,ANTI-Les 235mg,Antibióticos,Genéricos Peru,SI,19.53
+PROD000184,DERM-Casi 494mg,Dermatológicos,BioPharma,NO,112.78
+PROD000185,PRIM-Mayor 735mg,Primeros auxilios,BioPharma,NO,9.57
+PROD000186,VITA-Pronto 750mg,Vitaminas,IncaFarma Labs,NO,42.9
+PROD000187,ANTI-Último 598mg,Antibióticos,IncaFarma Labs,SI,47.64
+PROD000188,ANTI-Cultura 227mg,Antiinflamatorios,Genéricos Peru,NO,90.52
+PROD000189,PROD-Porque 778mg,Productos para adultos mayores,SaludPerú,NO,55.51
+PROD000190,SUPL-Corazón 235mg,Suplementos,SaludPerú,NO,68.83
+PROD000191,ANTI-Frente 726mg,Antiinflamatorios,IncaFarma Labs,NO,90.5
+PROD000192,SUPL-Sol 871mg,Suplementos,Laboratorios Alfa,NO,101.36
+PROD000193,ANTI-Mujeres 389mg,Antiinflamatorios,FarmaAndes,NO,52.72
+PROD000194,ANTI-Última 921mg,Antibióticos,SaludPerú,SI,36.51
+PROD000195,PROD-Estuvo 177mg,Productos para adultos mayores,SaludPerú,NO,18.9
+PROD000196,OTRO-Aquí 441mg,Otros,Genéricos Peru,NO,4.46
+PROD000197,ANAL-Algo 106mg,Analgésicos,IncaFarma Labs,NO,11.15
+PROD000198,ANAL-Informe 744mg,Analgésicos,SaludPerú,NO,8.15
+PROD000199,HIGI-E 553mg,Higiene personal,BioPharma,NO,2.66
+PROD000200,PRIM-Cara 617mg,Primeros auxilios,FarmaAndes,NO,22.89
+PROD000201,HIGI-Además 518mg,Higiene personal,Laboratorios Alfa,NO,18.36
+PROD000202,DERM-Largo 300mg,Dermatológicos,Andina Pharma,NO,59.33
+PROD000203,ANTI-Semana 916mg,Antialérgicos,SaludPerú,NO,2.45
+PROD000204,SUPL-País 210mg,Suplementos,BioPharma,NO,133.49
+PROD000205,PRIM-Mejor 553mg,Primeros auxilios,IncaFarma Labs,NO,28.0
+PROD000206,ANTI-Queda 383mg,Antialérgicos,BioPharma,NO,80.21
+PROD000207,GAST-Estuvo 133mg,Gastrointestinales,Andina Pharma,SI,4.93
+PROD000208,CUID-Grande 990mg,Cuidado infantil,SaludPerú,NO,19.03
+PROD000209,VITA-Modelo 168mg,Vitaminas,BioPharma,NO,43.49
+PROD000210,ANTI-Escuela 336mg,Antigripales,Genéricos Peru,NO,99.44
+PROD000211,DISP-Grupo 212mg,Dispositivos médicos,IncaFarma Labs,NO,78.62
+PROD000212,HIGI-Aspecto 499mg,Higiene personal,FarmaAndes,NO,6.3
+PROD000213,GAST-Hijo 285mg,Gastrointestinales,SaludPerú,SI,46.07
+PROD000214,ANTI-Mediante 513mg,Antibióticos,FarmaAndes,SI,6.77
+PROD000215,GAST-Pocos 574mg,Gastrointestinales,Andina Pharma,SI,71.94
+PROD000216,OTRO-González 838mg,Otros,IncaFarma Labs,NO,46.45
+PROD000217,ANTI-Dicen 784mg,Antibióticos,Laboratorios Alfa,SI,27.53
+PROD000218,ANTI-Yo 678mg,Antigripales,IncaFarma Labs,NO,8.45
+PROD000219,PRIM-Si 520mg,Primeros auxilios,Laboratorios Alfa,NO,27.86
+PROD000220,HIGI-Tribunal 791mg,Higiene personal,Laboratorios Alfa,NO,18.06
+PROD000221,HIGI-Vio 141mg,Higiene personal,SaludPerú,NO,7.89
+PROD000222,DISP-Donde 785mg,Dispositivos médicos,IncaFarma Labs,NO,34.65
+PROD000223,SUPL-Entonces 991mg,Suplementos,IncaFarma Labs,NO,71.16
+PROD000224,SUPL-Toma 408mg,Suplementos,Andina Pharma,NO,59.34
+PROD000225,OTRO-Dos 771mg,Otros,Laboratorios Alfa,NO,2.63
+PROD000226,GAST-Queda 913mg,Gastrointestinales,SaludPerú,SI,97.76
+PROD000227,PROD-Padres 720mg,Productos para adultos mayores,FarmaAndes,NO,22.68
+PROD000228,HIGI-Sociales 555mg,Higiene personal,SaludPerú,NO,5.13
+PROD000229,PROD-Día 381mg,Productos para adultos mayores,BioPharma,NO,28.8
+PROD000230,PRIM-Ni 648mg,Primeros auxilios,SaludPerú,NO,2.58
+PROD000231,OTRO-Uso 107mg,Otros,BioPharma,NO,91.62
+PROD000232,VITA-Ojos 305mg,Vitaminas,FarmaAndes,NO,124.09
+PROD000233,GAST-Cuatro 811mg,Gastrointestinales,Laboratorios Alfa,SI,43.71
+PROD000234,CUID-Blanco 365mg,Cuidado infantil,Laboratorios Alfa,NO,11.4
+PROD000235,ANTI-Propia 396mg,Antiinflamatorios,Andina Pharma,NO,28.35
+PROD000236,DISP-Cuanto 780mg,Dispositivos médicos,FarmaAndes,NO,45.24
+PROD000237,OTRO-Nuevos 197mg,Otros,BioPharma,NO,50.93
+PROD000238,OTRO-Debía 324mg,Otros,IncaFarma Labs,NO,18.19
+PROD000239,ANTI-Esto 511mg,Antiinflamatorios,Laboratorios Alfa,SI,94.42
+PROD000240,PROD-Al 493mg,Productos para adultos mayores,IncaFarma Labs,NO,84.6
+PROD000241,ANAL-Esta 466mg,Analgésicos,Andina Pharma,SI,30.27
+PROD000242,ANTI-Tipo 993mg,Antiinflamatorios,Genéricos Peru,NO,7.83
+PROD000243,ANTI-Tarde 153mg,Antibióticos,BioPharma,SI,93.23
+PROD000244,DERM-Materia 970mg,Dermatológicos,Genéricos Peru,NO,59.95
+PROD000245,ANAL-Imposible 734mg,Analgésicos,SaludPerú,SI,33.19
+PROD000246,CUID-Fuera 839mg,Cuidado infantil,FarmaAndes,NO,9.9
+PROD000247,ANAL-El 997mg,Analgésicos,BioPharma,NO,47.13
+PROD000248,DISP-Realidad 233mg,Dispositivos médicos,IncaFarma Labs,NO,32.68
+PROD000249,OTRO-Nombre 141mg,Otros,FarmaAndes,NO,60.22
+PROD000250,DERM-Militar 572mg,Dermatológicos,Andina Pharma,NO,35.72
+PROD000251,DERM-Julio 624mg,Dermatológicos,Andina Pharma,NO,143.61
+PROD000252,PROD-Saber 386mg,Productos para adultos mayores,Andina Pharma,NO,19.07
+PROD000253,ANTI-Construcción 476mg,Antiinflamatorios,Andina Pharma,NO,91.22
+PROD000254,GAST-Encuentra 822mg,Gastrointestinales,FarmaAndes,SI,92.84
+PROD000255,DISP-Entonces 397mg,Dispositivos médicos,FarmaAndes,NO,68.94
+PROD000256,ANTI-Mujeres 490mg,Antibióticos,SaludPerú,SI,79.79
+PROD000257,SUPL-Paciente 474mg,Suplementos,IncaFarma Labs,NO,122.44
+PROD000258,PRIM-Ahí 646mg,Primeros auxilios,BioPharma,NO,10.47
+PROD000259,VITA-Quedó 820mg,Vitaminas,Andina Pharma,NO,101.71
+PROD000260,ANTI-Siendo 302mg,Antiinflamatorios,BioPharma,SI,65.53
+PROD000261,ANAL-Hecho 942mg,Analgésicos,FarmaAndes,NO,35.74
+PROD000262,ANTI-Intereses 160mg,Antigripales,Genéricos Peru,NO,18.28
+PROD000263,DERM-Buscar 461mg,Dermatológicos,Genéricos Peru,NO,92.21
+PROD000264,ANAL-Crecimiento 447mg,Analgésicos,BioPharma,SI,41.82
+PROD000265,CUID-Libro 626mg,Cuidado infantil,IncaFarma Labs,NO,15.69
+PROD000266,HIGI-Hechos 763mg,Higiene personal,IncaFarma Labs,NO,23.02
+PROD000267,SUPL-Hermano 928mg,Suplementos,Genéricos Peru,NO,89.82
+PROD000268,HIGI-Programa 278mg,Higiene personal,BioPharma,NO,23.38
+PROD000269,VITA-Quería 874mg,Vitaminas,FarmaAndes,NO,73.01
+PROD000270,GAST-Fuera 496mg,Gastrointestinales,Laboratorios Alfa,SI,49.67
+PROD000271,ANTI-Durante 600mg,Antigripales,FarmaAndes,NO,42.32
+PROD000272,ANTI-Pueda 595mg,Antiinflamatorios,SaludPerú,NO,23.25
+PROD000273,GAST-Ley 558mg,Gastrointestinales,FarmaAndes,SI,28.04
+PROD000274,ANAL-Papel 719mg,Analgésicos,Laboratorios Alfa,NO,71.03
+PROD000275,SUPL-Sean 952mg,Suplementos,Genéricos Peru,NO,35.57
+PROD000276,HIGI-Pp 886mg,Higiene personal,Andina Pharma,NO,20.41
+PROD000277,GAST-Allí 887mg,Gastrointestinales,Andina Pharma,SI,75.02
+PROD000278,GAST-Solamente 996mg,Gastrointestinales,IncaFarma Labs,SI,57.04
+PROD000279,ANTI-Construcción 938mg,Antigripales,Andina Pharma,NO,57.54
+PROD000280,GAST-Única 344mg,Gastrointestinales,SaludPerú,SI,3.23
+PROD000281,OTRO-Parte 227mg,Otros,SaludPerú,NO,4.15
+PROD000282,VITA-Ley 241mg,Vitaminas,Laboratorios Alfa,NO,60.36
+PROD000283,ANTI-Siguiente 200mg,Antibióticos,FarmaAndes,SI,8.33
+PROD000284,ANTI-Plazo 837mg,Antiinflamatorios,IncaFarma Labs,SI,87.23
+PROD000285,GAST-Mismos 379mg,Gastrointestinales,Genéricos Peru,SI,12.92
+PROD000286,VITA-Tres 507mg,Vitaminas,Genéricos Peru,NO,68.92
+PROD000287,ANTI-Voy 767mg,Antialérgicos,FarmaAndes,NO,25.75
+PROD000288,VITA-Lo 382mg,Vitaminas,BioPharma,NO,110.09
+PROD000289,CUID-América 675mg,Cuidado infantil,FarmaAndes,NO,25.46
+PROD000290,PRIM-Buena 167mg,Primeros auxilios,SaludPerú,NO,5.12
+PROD000291,OTRO-Saber 151mg,Otros,FarmaAndes,NO,48.5
+PROD000292,PRIM-Obra 199mg,Primeros auxilios,Andina Pharma,NO,15.59
+PROD000293,DISP-Vivir 783mg,Dispositivos médicos,Laboratorios Alfa,NO,84.67
+PROD000294,DISP-Texto 110mg,Dispositivos médicos,SaludPerú,NO,37.12
+PROD000295,OTRO-Donde 149mg,Otros,Genéricos Peru,NO,24.04
+PROD000296,DERM-Música 537mg,Dermatológicos,Genéricos Peru,NO,129.36
+PROD000297,GAST-Quién 145mg,Gastrointestinales,BioPharma,SI,36.99
+PROD000298,DERM-Figura 676mg,Dermatológicos,Genéricos Peru,NO,94.55
+PROD000299,ANTI-Puerto 262mg,Antialérgicos,SaludPerú,NO,40.97
+PROD000300,SUPL-Modelo 290mg,Suplementos,SaludPerú,NO,51.57

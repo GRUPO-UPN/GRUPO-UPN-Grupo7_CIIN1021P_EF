@@ -1,0 +1,24 @@
+=========================================
+ REPORTE DE CALIDAD - DATASET MARFARMA
+=========================================
+
+Número total de registros (Ventas): 65000
+Número total de detalles de venta: 104229
+Número de clientes: 5000
+Número de productos: 300
+Número de vendedores: 30
+Fecha mínima: 2024-01-01
+Fecha máxima: 2026-08-31
+Ventas totales (S/): 9533900.51
+Unidades vendidas: 158005
+Valores nulos (Tabla principal): 0
+Duplicados absolutos: 0
+
+--- VALIDACIONES ---
+[X] Existen entre 60 000 y 70 000 ventas: SI
+[X] Los IDs son coherentes y únicos: SI
+[X] Los precios son válidos (>0): SI
+[X] Las cantidades son válidas (>0): SI
+[X] Los subtotales son correctos: SI
+[X] Sin claves huérfanas: SI (generado mediante joins de DF)
+[X] Los datos son reproducibles: SI (SEED=2026)
