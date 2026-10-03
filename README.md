@@ -30,11 +30,11 @@
 * **Grupo:** Grupo 7
 * **Integrantes:**  
    
-  * **1. Aguilar Cruz, Alex Gustavo
-  * **2. Fernandez Vigo Sergio Esteban
-  * **3. Ishpilco Quispe, Esau
-  * **4. Malca Chilon, Antony                                                                             
-  * **5. Vasquez Valdez Jaime Farid
+  * 1. Aguilar Cruz, Alex Gustavo
+  * 2. Fernandez Vigo Sergio Esteban
+  * 3. Ishpilco Quispe, Esau
+  * 4. Malca Chilon, Antony                                                                             
+  * 5. Vasquez Valdez Jaime Farid
 
 ---
 
