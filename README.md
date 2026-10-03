@@ -3,7 +3,7 @@
 [![SQL Server](https://img.shields.io/badge/SQL_SERVER-2019%2B-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![T-SQL](https://img.shields.io/badge/T--SQL-DATABASE_ENGINE-0078D4?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/sql/t-sql/)
 [![Architecture](https://img.shields.io/badge/ARCHITECTURE-KIMBALL_STAR_SCHEMA-76B900?style=for-the-badge)](https://www.kimballgroup.com/)
-[![Compliance](https://img.shields.io/badge/COMPLIANCE-LEY_N.%C2%BA_29733_(PER%C3%9A)-007ACC?style=for-the-badge)](https://www.gob.pe/institucion/minjus/normas-legales/259164-29733)
+[![Compliance](https://img.shields.io/badge/COMPLIANCE-LEY_N.%C2%BA_29733_(PER%C3%9A)-007ACC?style=for-the-badge)](https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/243470-29733)
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
