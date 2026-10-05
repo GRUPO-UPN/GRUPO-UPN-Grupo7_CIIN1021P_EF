@@ -18,7 +18,7 @@
 * **Informe Académico Completo (Google Docs):**  
   [Acceder al Informe Oficial](https://docs.google.com/document/d/1Vq2KuKZ5SP5ivXN2ev0f19g59X_ATJn_/edit?usp=sharing&ouid=101032473611357179014&rtpof=true&sd=true)
 
-* ⚡ **Cuaderno Interactivo en Google Colab (PySpark & Analítica):**  
+* **Cuaderno Interactivo en Google Colab (PySpark & Analítica):**  
   [Ejecutar en Google Colab](https://colab.research.google.com/drive/1zPjf0qTjOxWyQxgfCW5r3VU36NB_Daea?usp=sharing)
 
 ---
