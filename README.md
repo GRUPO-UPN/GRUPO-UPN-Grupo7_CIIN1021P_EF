@@ -1,4 +1,4 @@
-# 🏥 MARFARMA — Sistema Transaccional, Data Warehouse y Analítica Big Data
+# MARFARMA — Sistema Transaccional, Data Warehouse y Analítica Big Data
 
 [![SQL Server](https://img.shields.io/badge/SQL_SERVER-2019%2B-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![T-SQL](https://img.shields.io/badge/T--SQL-DATABASE_ENGINE-0078D4?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/sql/t-sql/)
@@ -13,9 +13,9 @@
 
 ---
 
-## 📌 Enlaces Oficiales del Proyecto
+## Enlaces Oficiales del Proyecto
 
-* 📄 **Informe Académico Completo (Google Docs):**  
+* **Informe Académico Completo (Google Docs):**  
   [Acceder al Informe Oficial](https://docs.google.com/document/d/1Vq2KuKZ5SP5ivXN2ev0f19g59X_ATJn_/edit?usp=sharing&ouid=101032473611357179014&rtpof=true&sd=true)
 
 * ⚡ **Cuaderno Interactivo en Google Colab (PySpark & Analítica):**  
@@ -23,7 +23,7 @@
 
 ---
 
-## 👥 Datos Académicos y Equipo de Trabajo
+## Datos Académicos y Equipo de Trabajo
 
 * **Curso:** CIIN1021P
 * **Evaluación:** Evaluación Final (EF)
@@ -38,7 +38,7 @@
 
 ---
 
-## 📑 Tabla de Contenidos
+## Tabla de Contenidos
 
 1. [Descripción y Caso de Estudio](#-descripción-y-caso-de-estudio)
 2. [Arquitectura Integral de la Solución](#-arquitectura-integral-de-la-solución)
@@ -55,7 +55,7 @@
 
 ---
 
-## 🏢 Descripción y Caso de Estudio
+## Descripción y Caso de Estudio
 
 **MARFARMA** es una cadena farmacéutica nacional con múltiples puntos de venta que atiende una alta demanda de productos médicos, cuidado personal y suplementos. Debido a su rápido crecimiento, la organización requería consolidar sus operaciones a través de un ecosistema escalable de ingeniería de datos capaz de:
 * Centralizar el registro confiable de transacciones de ventas y control de clientes/vendedores.
@@ -67,7 +67,7 @@
 
 ---
 
-## 🏗️ Arquitectura Integral de la Solución
+## Arquitectura Integral de la Solución
 
 El flujo completo de datos implementado en este repositorio sigue una arquitectura por capas desacopladas:
 
